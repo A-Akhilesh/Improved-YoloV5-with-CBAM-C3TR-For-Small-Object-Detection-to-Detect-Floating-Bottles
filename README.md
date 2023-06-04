@@ -4,4 +4,4 @@
 * Clone the Repo and Use Main file to execute the code
 
 ## For Testing and Detection Purpose Use Trained weights
-Trained Weights on Flow IMG- https://drive.google.com/file/d/18fHaTbkNqoDjD_6AaH_hBwVroutLaWep/view?usp=sharing
+Trained Weights on Flow IMG - https://drive.google.com/file/d/18fHaTbkNqoDjD_6AaH_hBwVroutLaWep/view?usp=sharing
